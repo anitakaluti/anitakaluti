@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anitakaluti
-- 👀 I’m interested in Test Developement
+- 👀 I’m interested in Test Development
 - 🌱 I’m currently learning Mobile automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
